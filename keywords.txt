@@ -1,0 +1,5 @@
+X6B	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+getRxChannel	KEYWORD2
+getChannelValue	KEYWORD2
